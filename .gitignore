@@ -1,0 +1,6 @@
+hardware/intro_proj
+software/*
+!software/test
+software/test/*
+!software/test/src
+software/test/src/Xilinx.spec
